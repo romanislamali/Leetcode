@@ -20,9 +20,7 @@ public class TwoSumHashMap {
                 map.put(arr[i], i);
             }
         }
-
         return res;
-
     }
 
     public static void main(String[] args) {
